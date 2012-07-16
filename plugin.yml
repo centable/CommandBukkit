@@ -1,0 +1,10 @@
+name: CommandBukkit
+main: me.Centable.CommandBukkit.CommandBukkit
+version: 1.1
+description: >
+             Many useful commands in one.
+commands:
+  nick:
+    description: Nicknames a player.
+  time:
+    description: Sets the time.

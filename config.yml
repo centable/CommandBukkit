@@ -1,0 +1,5 @@
+# Default config page
+MOTD: &2Welcome to the server!
+MOTD-Color: YELLOW
+rules:
+    - This is a test rule.
